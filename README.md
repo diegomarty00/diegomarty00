@@ -1,110 +1,115 @@
-![]()
-![]()
-<h2>𝑆𝑡𝑎𝑡𝑠</h2>
-<p align="right"> 
-  <img src="https://komarev.com/ghpvc/?username=diegomarty00&color=blue&style=for-the-badge" alt="react"/> 
- </p>
-  
-<p align="center">&nbsp;
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=diegomarty00&show_icons=true&theme=github_dark&hide_border=true&locale=en" alt="diegomarty00" />
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegomarty00&layout=compact&theme=github_dark&hide_border=true&hide=css,html&langs_count=8">
-</p>
-<p align="center">&nbsp;
-  <img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diegomarty00&theme=dark"/>
-</p>
+<div align="center">
 
-<h2 align="left">𝑇𝑒𝑐ℎ𝑛𝑜𝑙𝑜𝑔𝑖𝑒𝑠 𝑎𝑛𝑑 𝑇𝑜𝑜𝑙𝑠</h2>
+# Diego Martínez
 
-<p align="center"> 
+### Software Developer · QA Automation
 
-  <a href="https://developer.android.com/?hl=es-419" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-    <img src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" alt="arduino" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a>
-  
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a>
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=18&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=620&amp;lines=Software+quality+and+test+automation;Cypress+%C2%B7+Jenkins+%C2%B7+CI%2FCD;Web+development+for+real+businesses" alt="Professional focus">
 
-  <a href="https://nodejs.org/es" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
+<br>
 
- </p>
+<a href="https://www.linkedin.com/in/diegomarty00/"><img src="https://img.shields.io/badge/LinkedIn-Diego%20Mart%C3%ADnez-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:diegomarty1200@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"></a>
+<a href="https://gentlemanbarberstudios.es/"><img src="https://img.shields.io/badge/Live%20project-Gentleman%20Barber-C5A059?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Gentleman Barber Studios"></a>
 
+</div>
 
-<h2>𝐶𝑜𝑛𝑡𝑎𝑐𝑡</h2>
+---
 
-<p align="center"> 
-  <a href="https://www.linkedin.com/in/diegomarty00/"_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  
-  <a href="mailto:diegomarty1200@gmail.com">
-  <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  
-  
-  <a href="https://steamcommunity.com/id/diegomarty_00">
-  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank">
-  </a>
-  
-  <a href="https://www.instagram.com/diegomarty_00">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?&style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
+## 👨‍💻 Profile
 
-  <a href="https://www.twitch.tv/diegomarty_00">
-  <img src="https://img.shields.io/badge/Twitch-9146FF?&style=for-the-badge&logo=twitch&logoColor=white" target="_blank">
-  </a>
-</p>
+> Software Engineering student focused on **quality, automation and practical product development**.
 
+I currently work at **Seresco**, automating end-to-end validations with **Cypress** and integrating test execution into **Jenkins**. I also develop websites for real businesses and collaborate on a video game currently in production.
 
-<!--
-**diegomarty00/diegomarty00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🎯 What I do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <h3>🧪 QA Automation</h3>
+      <p>Cypress, E2E testing and automated validations.</p>
+    </td>
+    <td width="33%" align="center">
+      <h3>⚙️ CI/CD</h3>
+      <p>Automated execution through Jenkins pipelines.</p>
+    </td>
+    <td width="33%" align="center">
+      <h3>🌐 Development</h3>
+      <p>Web solutions and collaborative product development.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Core skills
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,java,python,spring,nodejs,react,html,css,mysql,docker,git,github,jenkins&amp;theme=dark" alt="Technical skills">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&amp;logo=cypress&amp;logoColor=white" alt="Cypress">
+<img src="https://img.shields.io/badge/End--to--End%20Testing-7C3AED?style=flat-square" alt="End-to-end testing">
+<img src="https://img.shields.io/badge/CI%2FCD-2563EB?style=flat-square" alt="CI/CD">
+<img src="https://img.shields.io/badge/Responsive%20Web-0891B2?style=flat-square" alt="Responsive web development">
+
+</div>
+
+---
+
+## 🚀 Selected work
+
+### ✂️ Gentleman Barber Studios
+
+Production website for a local business, featuring responsive design and online booking integration.
+
+<a href="https://gentlemanbarberstudios.es/"><img src="https://img.shields.io/badge/View%20live%20website-C5A059?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="View Gentleman Barber Studios"></a>
+
+### 🎮 Video game · In development
+
+Collaborative project focused on programming, technical design and testing.
+
+<img src="https://img.shields.io/badge/Status-In%20development-F59E0B?style=flat-square" alt="In development"> <img src="https://img.shields.io/badge/Work-Collaborative-7C3AED?style=flat-square" alt="Collaborative work">
+
+---
+
+## 💼 Experience
+
+**Test Automation Developer · Seresco**  
+`April 2026 — Present`
+
+- End-to-end test automation with **Cypress**
+- Automated execution through **Jenkins**
+- Collaboration with QA and development teams
+
+<a href="https://www.linkedin.com/in/diegomarty00/"><img src="https://img.shields.io/badge/Full%20experience-LinkedIn-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="Full experience on LinkedIn"></a>
+
+---
+
+## 📊 GitHub overview
+
+<div align="center">
+
+<img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diegomarty00&amp;theme=github_dark" alt="GitHub profile summary">
+
+</div>
+
+---
+
+<div align="center">
+
+### Let's connect
+
+<a href="https://www.linkedin.com/in/diegomarty00/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn"></a>
+<a href="mailto:diegomarty1200@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Contact by email"></a>
+
+<br>
+
+<sub>Building reliable software through development, automation and continuous improvement.</sub>
+
+</div>
