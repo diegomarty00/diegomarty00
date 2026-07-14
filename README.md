@@ -1,3 +1,6 @@
+<p align="right"> 
+  <img src="https://komarev.com/ghpvc/?username=diegomarty00&color=blue&style=for-the-badge" alt="react"/> 
+ </p>
 <div align="center">
 
 # Diego Martínez
@@ -51,7 +54,7 @@ I currently work at **Seresco**, automating end-to-end validations with **Cypres
 
 <img src="https://skillicons.dev/icons?i=js,java,python,spring,nodejs,react,html,css,mysql,docker,git,github,jenkins&amp;theme=dark" alt="Technical skills">
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&amp;logo=cypress&amp;logoColor=white" alt="Cypress">
 <img src="https://img.shields.io/badge/End--to--End%20Testing-7C3AED?style=flat-square" alt="End-to-end testing">
@@ -107,8 +110,6 @@ Collaborative project focused on programming, technical design and testing.
 
 <a href="https://www.linkedin.com/in/diegomarty00/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn"></a>
 <a href="mailto:diegomarty1200@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Contact by email"></a>
-
-<br>
 
 <sub>Building reliable software through development, automation and continuous improvement.</sub>
 
